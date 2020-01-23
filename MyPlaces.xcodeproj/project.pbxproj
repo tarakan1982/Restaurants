@@ -14,6 +14,7 @@
 		2C50B1C223D891D900EA2DB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C50B1C123D891D900EA2DB7 /* Assets.xcassets */; };
 		2C50B1C523D891D900EA2DB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C50B1C323D891D900EA2DB7 /* LaunchScreen.storyboard */; };
 		2C50B1CF23D895EA00EA2DB7 /* MainTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C50B1CE23D895EA00EA2DB7 /* MainTableViewController.swift */; };
+		2C50B1D123D9964800EA2DB7 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C50B1D023D9964800EA2DB7 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2C50B1C423D891D900EA2DB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C50B1C623D891D900EA2DB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C50B1CE23D895EA00EA2DB7 /* MainTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewController.swift; sourceTree = "<group>"; };
+		2C50B1D023D9964800EA2DB7 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2C50B1B823D891D500EA2DB7 /* AppDelegate.swift */,
 				2C50B1BA23D891D500EA2DB7 /* SceneDelegate.swift */,
 				2C50B1CE23D895EA00EA2DB7 /* MainTableViewController.swift */,
+				2C50B1D023D9964800EA2DB7 /* CustomTableViewCell.swift */,
 				2C50B1BC23D891D500EA2DB7 /* ViewController.swift */,
 				2C50B1BE23D891D500EA2DB7 /* Main.storyboard */,
 				2C50B1C123D891D900EA2DB7 /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C50B1CF23D895EA00EA2DB7 /* MainTableViewController.swift in Sources */,
+				2C50B1D123D9964800EA2DB7 /* CustomTableViewCell.swift in Sources */,
 				2C50B1BD23D891D500EA2DB7 /* ViewController.swift in Sources */,
 				2C50B1B923D891D500EA2DB7 /* AppDelegate.swift in Sources */,
 				2C50B1BB23D891D500EA2DB7 /* SceneDelegate.swift in Sources */,
